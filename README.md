@@ -19,7 +19,7 @@ Mostly **C++** and **golang**, **python** too, while still learning **java**.
 
 an agentic coding ai built for terminal
 
-<a href="https://github.com/melonyzu/slick-code"><img src="assets/buttons/btn-repository.svg" height="32" alt="Repository" /></a>&nbsp;<a href="https://github.com/melonyzu/slick-code#readme"><img src="assets/buttons/btn-docs.svg" height="32" alt="Documentation" /></a>
+<a href="https://github.com/melonyzu/slick-code-cli"><img src="assets/buttons/btn-repository.svg" height="32" alt="Repository" /></a>&nbsp;<a href="https://github.com/melonyzu/slick-code-cli#readme"><img src="assets/buttons/btn-docs.svg" height="32" alt="Documentation" /></a>
 
 </td>
 <td width="50%" valign="top">
