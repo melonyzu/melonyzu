@@ -3,10 +3,9 @@
 <br/>
 <br/>
 
-I build software that's fun to engineer: developer tools, networking software,
-backend systems, terminal applications, AI tooling.
+I like building software that’s fun to engineer — developer tools, networking software, backend systems, terminal apps, and AI tooling.
 
-Mostly **C++** and **Go**. **Python** when it fits. Currently learning **Java**.
+Mostly **C++** and **golang**, **python** too, while still learning **java**.
 
 <br/>
 
@@ -18,7 +17,7 @@ Mostly **C++** and **Go**. **Python** when it fits. Currently learning **Java**.
 
 ### slick-code
 
-An AI coding agent built for the terminal.
+an agentic coding ai built for terminal
 
 <a href="https://github.com/melonyzu/slick-code"><img src="assets/buttons/btn-repository.svg" height="32" alt="Repository" /></a>&nbsp;<a href="https://github.com/melonyzu/slick-code#readme"><img src="assets/buttons/btn-docs.svg" height="32" alt="Documentation" /></a>
 
@@ -27,7 +26,7 @@ An AI coding agent built for the terminal.
 
 ### network-proxy
 
-An experimental networking framework built from the wire up.
+an experimental networking framework built just for fun honestly, but it is absolutely good
 
 <a href="https://github.com/melonyzu/network-proxy"><img src="assets/buttons/btn-repository.svg" height="32" alt="Repository" /></a>&nbsp;<a href="https://github.com/melonyzu/network-proxy#readme"><img src="assets/buttons/btn-docs.svg" height="32" alt="Documentation" /></a>
 
@@ -51,9 +50,9 @@ An experimental networking framework built from the wire up.
 
 ## Currently Building
 
-- `slick-code` — active development
+- `slick-code` 
 - experimental networking software
-- small tools I need myself
+- small tools  i need myself
 
 <br/>
 
@@ -67,4 +66,4 @@ An experimental networking framework built from the wire up.
 
 ---
 
-<sub>Neovim · Ghostty · Linux — most things I build start in a terminal.</sub>
+<sub>Vs code (mostly) · Ghostty · linux (beloved) — most things i build are fun to build.</sub>
